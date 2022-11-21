@@ -1,0 +1,91 @@
+.whole{
+    margin-bottom: 900px;
+}
+
+h1{
+    text-align: center;
+    color:goldenrod;
+}
+
+h2{
+   margin-top: 40px;
+   color:goldenrod;
+}
+.items{
+    color:black;
+    font-size: x-large;
+    font-family:'Arial Narrow Bold';
+    background-color:whitesmoke;
+    border-radius: 8px;
+    border: 2px solid black;
+    text-align: left; 
+    padding-left: 35px;
+    /* margin-left: auto;
+    margin-right:auto;
+    margin-bottom: auto; */
+    height: 45px;
+    width: 400px;
+
+}
+
+.container1{
+    margin-top: 120px;
+    margin-left: 80px;
+}
+
+.container2{
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    align-items: center;
+}
+
+.form-control{
+    width: 60%;
+    height: 80px;
+    font-size: large !important;
+    color:white !important;
+    background-color: black !important;
+}
+
+.btngroup{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top:218px; 
+    left:1020px;
+}
+
+.btngroup .btn{
+    color:black;
+    border : 2px solid black;
+    font-size: large;
+}
+
+h3{
+    font-size: large;
+    color: whitesmoke;
+    text-decoration: none;
+    text-align: center;
+}
+
+.btncancel{
+    color: black;
+    border : 2px solid black;
+    height: 45px;
+    margin-left: 20px;
+}
+
+.newcontainer1{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin-bottom: 5px;
+    margin-top: 50px;
+}
+
+/* .todo-user-input{
+    color: whitesmoke;
+    font-size: larger;
+    text-decoration: none;
+} */
